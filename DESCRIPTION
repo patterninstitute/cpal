@@ -1,9 +1,9 @@
 Package: cpaldata
-Title: Standardized Reference Tables from CPAL (Catálogo Português de Análises de Laboratório)
+Title: Standardized Reference Tables from CPAL
 Version: 0.0.0.9000
 Authors@R: 
     person("Nuno", "Aguileira", email = "nunoaguileira1@gmail.com", role = c("aut", "cre"))
-Description: Provides a collection of standardized reference tables from CPAL (Catálogo Português de Análises de Laboratório). These include vocabularies and metadata for laboratory parameters, specimen types, microorganisms, blood groups, antimicrobial agents, and related concepts.
+Description: Provides access to CPAL (Catálogo Português de Análises de Laboratório) ontology datasets including blood groups, antimicrobials, specimens, and other clinical pathology terminology.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
