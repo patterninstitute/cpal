@@ -1,5 +1,5 @@
-Package: cpaldata
-Title: cpaldata: Standardized Reference Tables from CPAL
+Package: cpal
+Title: cpal: Standardized Reference Tables from CPAL
 Version: 0.0.0.9000
 Authors@R: 
     person("Nuno", "Aguileira", email = "nunoaguileira1@gmail.com", role = c("aut", "cre"))
