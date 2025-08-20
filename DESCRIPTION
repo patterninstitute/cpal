@@ -1,6 +1,6 @@
 Package: cpal
-Title: cpal: Standardized Reference Tables from CPAL
-Version: 0.0.0.9000
+Title: Standardized Reference Tables from CPAL
+Version: 2023-10-24
 Authors@R: 
     person("Nuno", "Aguileira", email = "nunoaguileira1@gmail.com", role = c("aut", "cre"))
 Description: Provides access to CPAL (Catálogo Português de Análises de Laboratório) ontology datasets including blood groups, antimicrobials, specimens, and other clinical pathology terminology.
