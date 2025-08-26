@@ -10,5 +10,5 @@
 #'
 #' @export
 cpal_release <- function() {
-  as.Date(as.character(utils::packageVersion(utils::packageName())), format = "%Y-%m-%d")
+  as.Date(as.character(utils::packageVersion(utils::packageName())), format = "%Y.%m.%d")
 }
